@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fcollection\u002F[collection]","\u002Fforex\u002F[symbol_id]","\u002Fparcls\u002F[parcl_id]","\u002Ftoken\u002F[symbol_id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
